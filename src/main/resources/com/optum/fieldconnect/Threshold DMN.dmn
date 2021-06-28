@@ -37,7 +37,7 @@
           <dmn:text>"amber"</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
-          <dmn:text>PTT is greater than or equal to 90% and less than 95%</dmn:text>
+          <dmn:text>PTT is greater than or equal to 90% and less than 95.0%</dmn:text>
         </dmn:annotationEntry>
       </dmn:rule>
       <dmn:rule id="_778E7FA0-D4ED-419C-B5F9-1A8380473FA6">
